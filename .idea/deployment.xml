@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root@i-1.gpushare.com:19374 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@i-1.gpushare.com:19374 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-1.gpushare.com:39048 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@i-2.gpushare.com:58660 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

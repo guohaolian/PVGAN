@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote 3.11 (sftp://root@i-1.gpushare.com:19374/usr/local/bin/python3)" project-jdk-type="Python SDK" />
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/resultv1" />
+      <excludeFolder url="file://$MODULE_DIR$/resultv2" />
+      <excludeFolder url="file://$MODULE_DIR$/resultv3" />
+      <excludeFolder url="file://$MODULE_DIR$/resultv4" />
+      <excludeFolder url="file://$MODULE_DIR$/CGAN" />
+      <excludeFolder url="file://$MODULE_DIR$/GAN" />
+      <excludeFolder url="file://$MODULE_DIR$/LSGAN" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote 3.11 (sftp://root@i-1.gpushare.com:19374/usr/local/bin/python3)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
